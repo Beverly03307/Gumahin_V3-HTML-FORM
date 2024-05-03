@@ -258,6 +258,9 @@ nav ul li a {
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
+  background-image: url(img/menu_background.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .container {
@@ -309,7 +312,7 @@ button[type="submit"]:hover {
 }
 
 .signup-link a {
-  color: #333;
+  color: #002869;
   text-decoration: none;
 }
 
