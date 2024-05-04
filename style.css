@@ -82,18 +82,22 @@ nav ul li a {
 .media-icons {
   text-align: center;
   margin-top: 20px;
+  background-color: white; 
 }
 
 .media-icons a {
   display: inline-block;
   margin: 0 10px;
   font-size: 24px;
-  color: #333;
+  color: #fff; 
   text-decoration: none;
+  background-color: #333; 
+  padding: 10px;
+  border-radius: 50%; 
 }
 
 .media-icons a:hover {
-  color: #555;
+  background-color: #555; 
 }
 
 .menu {
